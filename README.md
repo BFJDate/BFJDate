@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi,there👋
+<div align="center">
 
-<!--
-**BFJDate/BFJDate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</div>  
 
-Here are some ideas to get you started:
+My ![Visitor Count](https://profile-counter.glitch.me/BFJDate/count.svg) visitor
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+# I'm CL Wang 🤗
+
+- 🧱 Now learning **Pytorch**, **C++**
+- 🚀 I'm working on **spacecraft, target detection**
+
+# About My Github
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BFJDate&layout=compact)](https://github.com/Christmas-Wong/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BFJDate&show_icons=true&theme=tokyonight)
+
